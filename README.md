@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="200">
-      <img src=".\img\header_img.jpg" alt="Project Logo" width="150" />
+      <img src=".\img\header_img.png" alt="Project Logo" width="150" />
     </td>
     <td>
       <h1 style="margin: 0; padding-left: 10px;">💡 Insurance Claims </h1>
